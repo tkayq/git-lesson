@@ -1,2 +1,6 @@
+#### Start of testing ####
+
 I added this file from a clone!
 Now I added a new line!
+
+#### End of testing ####
